@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5aa5be2735e63ab4c8feb92f8443a0c3, type: 3}
+  m_Name: PayTableData
+  m_EditorClassIdentifier: 
+  data:
+  - sSymbolName: L5
+    fAmount:
+    - 0.3
+    - 1.2
+    - 3
+  - sSymbolName: L4
+    fAmount:
+    - 0.3
+    - 1.2
+    - 3
+  - sSymbolName: L3
+    fAmount:
+    - 0.3
+    - 1.2
+    - 3
+  - sSymbolName: L2
+    fAmount:
+    - 0.3
+    - 1.2
+    - 3
+  - sSymbolName: L1
+    fAmount:
+    - 0.3
+    - 1.2
+    - 3
+  - sSymbolName: H4
+    fAmount:
+    - 0.4
+    - 2
+    - 8
+  - sSymbolName: H3
+    fAmount:
+    - 0.6
+    - 4
+    - 12
+  - sSymbolName: H2
+    fAmount:
+    - 0.8
+    - 6
+    - 16
+  - sSymbolName: H1
+    fAmount:
+    - 1
+    - 10
+    - 20
+  - sSymbolName: WILD
+    fAmount:
+    - 1
+    - 10
+    - 20
